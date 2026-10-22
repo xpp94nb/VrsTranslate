@@ -4,9 +4,9 @@ Windows 赛车讲解视频与中英文字幕工具。此仓库用于发布轻量
 
 ## 下载
 
-2.0.8 在线更新已经开放；完整轻量分享包仍在上传，上传完成后会出现在最新版的 Assets 中。
+[打开最新发行版下载页面](https://github.com/xpp94nb/VrsTranslate/releases/latest)
 
-已有用户请直接在软件内更新。首次安装可等待完整 2.0.8 包，或先在 [2.0.7 发行版页面](https://github.com/xpp94nb/VrsTranslate/releases/tag/v2.0.7) 下方 Assets 下载 `VRS_Studio_2.0.7_Lite.zip`，完整解压后在软件内升级到 2.0.8。不要下载自动生成的 Source code 压缩包。
+展开页面下方的 **Assets**，新用户下载 **`VRS_Studio_2.0.8_Lite.zip`**（约 137 MB）。不要下载自动生成的 Source code 压缩包。
 
 ## 使用
 
